@@ -1,0 +1,23 @@
+Data Types in Java:
+
+	1. Premitive Data Types: int, double, char, boolean, short, float, etc.
+	
+	2. Derived Data Types: Array, ArrayList, String, HashMap, etc.
+	
+	
+Operators in Java:
+
+	1. Arithmetic Operators: + - * / %
+	2. Relational/Comparison Operators: == >= <= <> < >  
+	3. Logical Operators: && || 
+	4. Increment/Decrement Operators: ++ --
+	5. Assignment Operators: = 
+	
+
+Java Control Statements:
+
+	Conditional/Selection Statements - if, if else, switch
+	Loops/Iterative Statements - For, While, Do while 
+	Jump Statements - Break, Continue
+	
+	
